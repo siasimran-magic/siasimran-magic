@@ -14,7 +14,7 @@ CSE Student @ PES University • AI Explorer • Developer
 
 - 🎓 Computer Science Student
 - 🤖 Passionate about Machine Learning and Artificial Intelligence
-- 📚 Interested in Deep Learning, NLP, Computer Vision, and Generative AI
+- 📚 Interested in Computer Vision and NLP
 - 🔬 Love building projects that solve real-world problems
 - 🌱 Currently exploring modern AI research and applications
 
@@ -25,10 +25,9 @@ CSE Student @ PES University • AI Explorer • Developer
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-⭐ If you like my work, consider checking out my repositories!
+
 </p>
